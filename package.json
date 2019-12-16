@@ -3,9 +3,10 @@
 	"displayName": "Dark Knight",
 	"description": "A simple dark theme.",
 	"license": "MIT",
-	"version": "1.0.0",
+	"version": "1.0.3",
 	"publisher": "hasanozgan",
-	"preview": true,
+	"preview": false,
+	"icon": "icon.png",
 	"engines": {
 		"vscode": "^1.26.1"
 	},
@@ -35,9 +36,9 @@
 			}
 		]
 	},
-	"__metadata": { 
-		"id": "todo",
-		"publisherId": "todo",
+	"__metadata": {
+		"id": "144be4c3-6e5b-44a2-959e-beaf906525ac",
+		"publisherId": "ffdc4a87-b9a3-4952-ad8d-286f0722eab7",
 		"publisherDisplayName": "Hasan Ozgan"
 	}
 }

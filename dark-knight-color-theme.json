@@ -37,7 +37,7 @@
 		// "input.background": "#18222d",
 		"inputOption.activeBorder": "#75715e",
 		"inputValidation.errorBackground": "#90274a",
-		"inputValidation.errorBorder": "#f92672",
+		"inputValidation.errorBorder": "#ff875f", //ff875f
 		"inputValidation.infoBackground": "#546190",
 		"inputValidation.infoBorder": "#819aff",
 		"inputValidation.warningBackground": "#848528",
@@ -79,7 +79,7 @@
 		"terminal.ansiBrightCyan": "#66d9ef",
 		"terminal.ansiBrightGreen": "#a6e22e",
 		"terminal.ansiBrightMagenta": "#ae81ff",
-		"terminal.ansiBrightRed": "#f92672",
+		"terminal.ansiBrightRed": "#ff875f",
 		"terminal.ansiBrightWhite": "#f8f8f2",
 		"terminal.ansiBrightYellow": "#e2e22e",
 		"terminal.ansiCyan": "#56adbc",
@@ -155,7 +155,7 @@
 				"punctuation.section.embedded"
 			],
 			"settings": {
-				"foreground": "#F92672"
+				"foreground": "#ff875f"
 			}
 		},
 		{
@@ -200,7 +200,7 @@
 			"name": "Keyword",
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#F92672"
+				"foreground": "#ff875f"
 			}
 		},
 		{
@@ -208,7 +208,7 @@
 			"scope": "storage",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#F92672"
+				"foreground": "#ff875f"
 			}
 		},
 		{
@@ -256,7 +256,7 @@
 			"scope": "entity.name.tag",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#F92672"
+				"foreground": "#ff875f"
 			}
 		},
 		{
@@ -302,7 +302,7 @@
 			"name": "Invalid",
 			"scope": "invalid",
 			"settings": {
-				// "background": "#F92672",
+				// "background": "#ff875f",
 				"fontStyle": "",
 				"foreground": "#F8F8F0"
 			}
@@ -333,7 +333,7 @@
 			"name": "diff.deleted",
 			"scope": "markup.deleted",
 			"settings": {
-				"foreground": "#F92672"
+				"foreground": "#ff875f"
 			}
 		},
 		{
@@ -366,7 +366,7 @@
 			"name": "Markup Quote",
 			"scope": "markup.quote",
 			"settings": {
-				"foreground": "#F92672"
+				"foreground": "#fff" //"ff875f"
 			}
 		},
 		{
@@ -434,7 +434,7 @@
 			"name": "this.self",
 			"scope": "variable.language",
 			"settings": {
-				"foreground": "#FD971F"
+				"foreground": "#fff" //"FD971F"
 			}
 		},
 		{
