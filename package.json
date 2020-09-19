@@ -1,9 +1,9 @@
 {
 	"name": "darkknight",
 	"displayName": "Dark Knight",
-	"description": "A simple dark theme.",
+	"description": "A simple dark theme for Golang projects",
 	"license": "MIT",
-	"version": "1.0.5",
+	"version": "1.0.6",
 	"publisher": "hasanozgan",
 	"preview": false,
 	"icon": "icon.png",
@@ -15,7 +15,9 @@
 		"minimal",
 		"night",
 		"dark",
-		"blue"
+		"blue",
+		"golang",
+		"go"
 	],
 	"repository": {
 		"type": "git",
