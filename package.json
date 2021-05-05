@@ -3,7 +3,7 @@
 	"displayName": "Dark Knight",
 	"description": "A simple dark theme for Golang projects",
 	"license": "MIT",
-	"version": "1.0.7",
+	"version": "1.0.8",
 	"publisher": "hasanozgan",
 	"preview": false,
 	"icon": "icon.png",
