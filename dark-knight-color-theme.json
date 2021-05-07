@@ -112,6 +112,7 @@
 		"activityBar.border": "#2D3E4C",
 		"settings.textInputBackground": "#2D3E4C",            
 		"settings.numberInputBackground": "#2D3E4C",
+		"selection.background": "#3a4e6b",
 	},
 	"tokenColors": [{
 			"scope": [
